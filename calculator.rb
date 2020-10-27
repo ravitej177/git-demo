@@ -15,4 +15,8 @@ class Calculator
   def multiply
     @a * @b
   end
+
+  def division
+    @a/@b
+  end
 end
