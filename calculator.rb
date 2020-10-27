@@ -11,4 +11,8 @@ class Calculator
   def sub
     @a - @b
   end
+
+  def multiply
+    @a * @b
+  end
 end
