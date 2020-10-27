@@ -7,4 +7,8 @@ class Calculator
   def add
     @a+@b
   end
+
+  def sub
+    @a - @b
+  end
 end
